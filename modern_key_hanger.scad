@@ -5,9 +5,12 @@
  * Author: James P Hansen
  * Version: 1.0.0
  * License: CC BY-NC 4.0 [https://creativecommons.org/licenses/by-nc/4.0/]
- * Link: []
+ * Link: [https://github.com/HoECoder/modern_key_holder_scad/tree/main]
  * Remix of Modern Key Holder by XYZ Space
  * Link: [https://www.printables.com/model/151052-modern-key-hanger]
+ *
+ * Utilizes Belfry OpenSCAD Library V2
+ * [https://github.com/BelfrySCAD/BOSL2]
  * 
  */
 
